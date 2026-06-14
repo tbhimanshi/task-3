@@ -1,3 +1,12 @@
+-- SQL Data Analysis Internship – Task 3
+-- Student Management Database
+-- Name - Himanshi Mahavar
+-- batch - 24th May 2026
+-- mail - mahavarhimanshi@gmail.com
+-- Date   : 15-06-2026
+
+--TASK 3 :
+
 USE StudentManagement;
 
 -- Query 1: Top Student Per Course
